@@ -40,4 +40,4 @@ class Beam:
 
 
 u0 = Beam('gaussian',N=2**10)
-u0.show_intensity0()
+#u0.show_intensity0()

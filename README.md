@@ -1,2 +1,3 @@
-# fourier_propagator
+# Fourier Propagator
  
+ Fourier propagator
